@@ -2,7 +2,7 @@
 
 When you are about to leave an organisation and you want to keep your
 contributions, there's a bunch of things you'll have to do to before
-leaving so that you can all of your green squares in your contribution
+leaving so that you can keep all of your green squares in your contribution
 graph.
 
 
